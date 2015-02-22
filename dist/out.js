@@ -22,4 +22,6 @@ var BranchController = (function (A) {
 
 angular.module("srLearningBower", []).service("Branches", function () {}).controller("BranchController", function (branches) {}).config(function () {
     console.log("running some configuration...");
+}).run(function () {
+    console.log("running...");
 });
