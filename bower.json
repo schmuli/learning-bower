@@ -1,0 +1,17 @@
+{
+  "name": "learning-bower",
+  "version": "1.0.0",
+  "homepage": "https://github.com/schmuli/learning-bower",
+  "authors": [
+    "Schmulik Raskin <schmuli@gmail.com>"
+  ],
+  "description": "Learning bower",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
