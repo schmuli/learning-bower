@@ -3,4 +3,7 @@ angular.module('srLearningBower', [])
     .controller('BranchController', function (branches) {})
     .config(function () {
         console.log('running some configuration...');
+    })
+    .run(function () {
+        console.log('running...');
     });
